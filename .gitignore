@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Personal / sensitive data — never commit
+Kalshi-Transactions-*.csv
+*.csv
+
+# OS files
+.DS_Store
